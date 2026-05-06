@@ -338,7 +338,7 @@ margin-bottom: 30px;
     max-width: 1100px; /* Adjusting size to match design proportions */
     height: auto;
     object-fit: contain;
-    /* Adding subtle shadow if the image doesn't already have one */
+
     filter: drop-shadow(0 5px 15px rgba(0,0,0,0.03));
 }
 
@@ -349,7 +349,7 @@ margin-bottom: 30px;
     }
     
     .info-img {
-        max-width: 100%; /* Full width on mobile */
+        max-width: 100%; 
         margin-bottom: 20px;
     }
 }
