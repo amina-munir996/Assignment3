@@ -203,14 +203,14 @@ justify-content: center;
 width: 100%; 
 max-width: 1100px; 
 height: auto; 
-/* Ensures logos stay properly contained without extra spacing */ 
+
 object-fit: contain; 
 display: block; 
 } 
 /* Mobile Responsive */ 
 @media (max-width: 768px) { 
 .full-cards-img { 
-width: 200%; /* Makes cards feel scrollable on mobile */ 
+width: 200%; 
 } 
 } 
                             
@@ -218,7 +218,7 @@ width: 200%; /* Makes cards feel scrollable on mobile */
                          /* Section 3*/ 
 
 .mission-text-img {
-    margin-left: -40px;  /* adjust: -20px, -60px as needed */
+    margin-left: -40px;  
 }
 /* Left Content */ 
 .mission-text-wrapper { 
