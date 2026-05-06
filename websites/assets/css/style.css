@@ -245,7 +245,7 @@ width: 110% !important;
     display: block;
    
 } 
-/* Responsive adjustments */ 
+
 @media (max-width: 991px) { 
 .mission-section { 
 padding: 60px 0; 
@@ -292,16 +292,16 @@ width: 60%;
 height: auto; 
 display: inline-block; 
 } 
-/* Features Grid (image11) */ 
+
 .spy-card-row { 
 width: 100%; 
 } 
 .img-11-full { 
-max-width: 1900px; /* Card size lock */ 
+max-width: 1900px; 
 width: 100%; 
 height: auto; 
 display: inline-block; 
-/* Card ko clean rakhne ke liye */ 
+
 filter: drop-shadow(0 15px 40px rgba(0,0,0,0.04)); 
 } 
 /* Mobile Responsive */ 
@@ -322,7 +322,7 @@ margin-bottom: 30px;
 /* --- SECTION 5: INFO CARDS --- */
 .info-cards-section {
     padding: 80px 0;
-    background-color: #ffffff; /* White background as per design */
+    background-color: #ffffff;
     width: 100%;
 }
 
@@ -335,7 +335,7 @@ margin-bottom: 30px;
 
 .info-img {
     width: 120%;
-    max-width: 1100px; /* Adjusting size to match design proportions */
+    max-width: 1100px; 
     height: auto;
     object-fit: contain;
 
