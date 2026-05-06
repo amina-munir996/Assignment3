@@ -122,7 +122,7 @@ border-radius: 50px !important;
     transform: scale(1.02); 
 }
 
-/* --- MOBILE RESPONSIVE (Strict Control) --- */ 
+
 @media (max-width: 991px) { 
 .hero-section { 
 flex-direction: column; 
