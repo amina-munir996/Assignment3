@@ -53,7 +53,6 @@ display: block;
      top: 48% !important;      
     left: 11% !important;     
     transform: translate(-50%, -50%) !important; 
-         /* was 50% → moves UP */
  
     /* more left + slightly more up */
     width: 35%; 
