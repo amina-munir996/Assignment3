@@ -88,7 +88,7 @@ border-radius: 50px !important;
     align-items: center;
 }
 
-/* Specific styling for the button image */
+
 .fixed-btn-img {
     height: 50px;           
     width: auto;             /* Keeps the image aspect ratio perfect */
