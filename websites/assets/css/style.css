@@ -386,14 +386,14 @@ margin-bottom: 30px;
 
 /* Image 15 (iPhone Button) Styling */
 .img-15-btn {
-    height: 55px; /* Size to match the Android button height */
+    height: 55px; 
     width: auto;
     cursor: pointer;
     transition: transform 0.2s ease;
 }
 
 .img-15-btn:hover {
-    transform: translateY(-3px); /* Hover lift effect */
+    transform: translateY(-3px); 
 }
 
 
