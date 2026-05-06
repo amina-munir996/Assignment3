@@ -157,10 +157,10 @@ width: 220px;
                             
                        /*Section 2*/ 
 .section-yellow { 
-background-color: #FFC043; /* Brand yellow background */ 
+background-color: #FFC043; 
 padding: 60px 0; 
 width: 100%; 
-overflow: hidden; /* Prevents content from overflowing outside */ 
+overflow: hidden; 
 } 
 .sec2-container { 
 max-width: 1200px; 
@@ -174,7 +174,7 @@ align-items: center;
 .sec2-heading { 
 margin-bottom: 40px; 
 width: 100%; 
-text-align: left; /* Keeps heading aligned to the left */ 
+text-align: left; 
 } 
 .sec2-heading img { 
 max-width: 500px; 
@@ -189,8 +189,8 @@ display: flex;
 justify-content: center; 
 } 
 .full-cards-img { 
-width: 127%; /* Slightly larger to fully cover the design */ 
-max-width: none; /* Remove width constraints */ 
+width: 127%; 
+max-width: none; 
 height: auto; 
 } 
 /* Logos Section Fix */ 
