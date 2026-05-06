@@ -3,7 +3,7 @@
 --certo-dark-blue: #02033b; 
 --certo-yellow: #FFC043; 
 } 
-html, body {     /* Base Settings to prevent shifting */ 
+html, body {     
 overflow-x: hidden; 
 width: 100%; 
 margin: 0; 
