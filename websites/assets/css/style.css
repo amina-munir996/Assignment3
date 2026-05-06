@@ -113,7 +113,7 @@ border-radius: 50px !important;
     height: 30px;
     width: auto;
     display: block;
-    /* REMOVE transform: translateX(-120px); <--- This was the culprit */
+
     transition: transform 0.6s ease;
 }
 
