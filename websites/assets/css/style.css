@@ -370,7 +370,7 @@ margin-bottom: 30px;
 }
 
 .img-14-cta {
-    max-width: 600px; /* Adjust based on design scale */
+    max-width: 600px; 
     width: 100%;
     height: auto;
 }
@@ -380,8 +380,8 @@ margin-bottom: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 20px; /* Space between the two buttons */
-    flex-wrap: wrap; /* Wraps buttons on mobile */
+    gap: 20px; 
+    flex-wrap: wrap; 
 }
 
 /* Image 15 (iPhone Button) Styling */
