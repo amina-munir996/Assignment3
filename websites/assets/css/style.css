@@ -54,12 +54,12 @@ display: block;
     left: 11% !important;     
     transform: translate(-50%, -50%) !important; 
  
-    
+
     width: 35%; 
     max-width: 300px; 
     z-index: 20; 
     pointer-events: none; 
-    margin-left: 18%;  /* was 20% → moves LEFT */
+    margin-left: 18%;  
 }
 .floating-mobile { 
 width: 100%; 
