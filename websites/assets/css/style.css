@@ -51,7 +51,7 @@ display: block;
 .mobile-container { 
     position: absolute;
      top: 48% !important;      
-    left: 11% !important;     /* moves LEFT slightly */
+    left: 11% !important;     
     transform: translate(-50%, -50%) !important; 
          /* was 50% → moves UP */
  
