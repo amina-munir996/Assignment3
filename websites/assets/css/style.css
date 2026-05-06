@@ -47,7 +47,7 @@ height: 100%;
 object-fit: cover; 
 display: block; 
 } 
-/* --- THE MOBILE PHONE (The moving part) --- */ 
+
 .mobile-container { 
     position: absolute;
      top: 48% !important;      /* moves UP */
