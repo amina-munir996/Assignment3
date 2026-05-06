@@ -92,7 +92,7 @@ border-radius: 50px !important;
 .fixed-btn-img {
     height: 50px;           
     width: auto;            
-    cursor: pointer;         /* Shows hand icon on hover */
+    cursor: pointer;         
     transition: transform 0.2s ease, opacity 0.2s ease; /* Smooth transition for hover effect */
     display: block;
 }
