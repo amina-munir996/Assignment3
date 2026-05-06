@@ -422,7 +422,7 @@ margin-bottom: 30px;
     }
     
     .cta-buttons-wrapper {
-        flex-direction: column; /* Stack buttons vertically on mobile */
+        flex-direction: column; 
         gap: 15px;
     }
 }
@@ -435,7 +435,7 @@ margin-bottom: 30px;
     width: 100%;
 }
 
-/* Image 20: Top Logo (Large Size) */
+
 .img-20-top {
     max-width: 500px; 
     width: 150%;
@@ -443,7 +443,7 @@ margin-bottom: 30px;
     margin-bottom: 20px;
 }
 
-/* Middle Row: 16, 17, 18 (Large Icons) */
+
 .middle-badges-row {
     display: flex;
     justify-content: center;
@@ -460,7 +460,7 @@ margin-bottom: 30px;
    
 }
 
-/* Image 19: Bottom Badge (Large) */
+
 .img-19-bottom {
     .img-19-bottom {
     height: 50px;
@@ -469,7 +469,7 @@ margin-bottom: 30px;
     display: flex;
     margin-left: auto;
     margin-right: auto;
-};   /* 🔥 This centers the image */
+};   
 }
 
 /* --- MOBILE RESPONSIVE --- */
@@ -522,7 +522,7 @@ margin-bottom: 30px;
     width: 100%;
     height: auto;
 
-    /* white logo effect */
+
     filter: brightness(0) invert(1);
 }
 
