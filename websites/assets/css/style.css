@@ -531,11 +531,11 @@ margin-bottom: 30px;
     height: 50px;
     width: auto;
 
-    /* white color for dark bg */
+
     filter: brightness(0) invert(1);
 }
 
-/* Row alignment */
+
 .footer-row-wrapper {
     display: flex;
     justify-content: space-between;
@@ -571,7 +571,7 @@ margin-bottom: 30px;
 }
 
 .future50-box {
-    height: 70px; /* White box size */
+    height: 70px; 
     width: 70%;
   margin-left: 40%;
     margin-bottom: -50%;
