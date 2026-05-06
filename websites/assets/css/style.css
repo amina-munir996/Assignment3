@@ -117,7 +117,7 @@ border-radius: 50px !important;
     transition: transform 0.6s ease;
 }
 
-/* Optional: Slight hover effect */
+
 .fixed-logo:hover {
     transform: scale(1.02); 
 }
