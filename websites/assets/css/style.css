@@ -99,7 +99,7 @@ border-radius: 50px !important;
 
 .fixed-btn-img:hover {
     transform: scale(1.05);  
-    opacity: 0.9;            /* Slightly fades for a button-click feel */
+    opacity: 0.9;           
 }
 
 /* --- NAVBAR LOGO STYLING --- */
