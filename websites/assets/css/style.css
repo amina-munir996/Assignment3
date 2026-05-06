@@ -396,12 +396,12 @@ margin-bottom: 30px;
     transform: translateY(-3px); /* Hover lift effect */
 }
 
-/* Manual Android Button Styling to match Image 15 */
+
 .android-outline-btn {
     height: 55px;
     padding: 0 30px;
     border: 2px solid white;
-    border-radius: 50px; /* Rounded pill shape */
+    border-radius: 50px; 
     color: white;
     text-decoration: none;
     display: flex;
@@ -415,7 +415,7 @@ margin-bottom: 30px;
     color: #4b5df7;
 }
 
-/* --- MOBILE RESPONSIVE --- */
+
 @media (max-width: 768px) {
     .cta-gradient-section {
         padding: 60px 20px;
