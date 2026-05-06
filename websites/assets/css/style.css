@@ -107,8 +107,7 @@ border-radius: 50px !important;
 .navbar-brand {
     display: flex;
     align-items: center; /* Vertically centers the logo in the navbar */
-    padding: 0;          /* Removes default Bootstrap padding for a cleaner look */
-}
+    padding: 0;         
 
 .fixed-logo {
     height: 30px;
