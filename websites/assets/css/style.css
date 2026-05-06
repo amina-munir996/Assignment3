@@ -142,7 +142,7 @@ padding-left: 0;
         margin-top: 15px;   
     }
      .justify-content-end {
-        justify-content: center !important; /* Centers button on mobile menu */
+        justify-content: center !important; 
     }
 .mobile-container { 
 left: 50%; 
