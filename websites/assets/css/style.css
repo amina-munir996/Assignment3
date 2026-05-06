@@ -90,7 +90,7 @@ border-radius: 50px !important;
 
 /* Specific styling for the button image */
 .fixed-btn-img {
-    height: 50px;            /* Set the fixed height */
+    height: 50px;           
     width: auto;             /* Keeps the image aspect ratio perfect */
     cursor: pointer;         /* Shows hand icon on hover */
     transition: transform 0.2s ease, opacity 0.2s ease; /* Smooth transition for hover effect */
