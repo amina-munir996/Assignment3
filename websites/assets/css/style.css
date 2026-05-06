@@ -120,7 +120,7 @@ border-radius: 50px !important;
 
 /* Optional: Slight hover effect */
 .fixed-logo:hover {
-    transform: scale(1.02); /* Very subtle growth on hover */
+    transform: scale(1.02); 
 }
 
 /* --- MOBILE RESPONSIVE (Strict Control) --- */ 
