@@ -82,7 +82,7 @@ padding: 12px 30px !important;
 border-radius: 50px !important; 
 } 
 
-/* Ensures the container moves to the right in Bootstrap navbar */
+
 .navbar-collapse {
     display: flex;
     align-items: center;
